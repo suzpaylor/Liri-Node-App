@@ -3,7 +3,7 @@ University of Utah - Trilogy BootCamp Homework #8
 
 ## Liri
 
-Liri is not as cool as Siri but it is a node.js command line application that takes in parameters and gives back data. The user must enter 'node liri.js' into the command line followed by a command and then a search parameter.
+Liri is not as cool as Siri but it is a node.js command line application that takes in parameters and gives back data. The user must enter 'node liri.js' into the command line followed by a command and then a search parameter.  
 
 There are four possible Commands: 'concert-this', 'spotify-this-song', 'movie-this', or 'do-what-it-says'
 
@@ -36,7 +36,7 @@ node liri.js movie-this "Nacho Libre
 
 ## 'do-what-it-says'
 
-The 'do-what-it-says' command reads the random.txt file and executes the parameters inside of it. By default it is set to 'spotify-this-song, I Want It That Way', but this can easily be changed to any of the other commands with any search parameter. 
+The 'do-what-it-says' command reads the random.txt file and executes the parameters inside of it. By default it is set to 'spotify-this-song, I Want It That Way', but this can easily be changed as needed.
 
 <img src="./do-what-it-says.GIF">
 
