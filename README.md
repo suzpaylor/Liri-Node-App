@@ -43,5 +43,3 @@ The 'do-what-it-says' command reads the random.txt file and executes the paramet
 All results are returned in the command line, but also into a separate text file named 'log.txt' as well.
 
 Technologies used: Javascript, Node.js, Moment.js, Bandsintown API, Spotify API, OMDb API
-
-Video Demonstration:
