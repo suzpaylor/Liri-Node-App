@@ -1,7 +1,7 @@
 # Liri-Node-App
 University of Utah - Trilogy BootCamp Homework #8
 
-##Liri
+## Liri
 
 Liri is not Siri but it is a node.js command line application that takes in parameters and gives back data. The user must enter 'node liri.js' into the command line followed by a command and then a search parameter.
 
@@ -16,7 +16,7 @@ User types in the following: 'node liri.js
 Possible commands are: 'concert-this', 'spotify-this-song', 'movie-this', or 'do-what-it-says'. The search parameter can be whatever the user is looking for. 
 Example: 
 
-<img src="./movie-this.gif">
+<img src="./movie-this.GIF">
 
 'concert-this' uses the Bandsintown API to retrieve all upcoming concerts for an artist that is searched. Each venue name, location, and date is provided for all results. Moment.js is used to format the date from the Bandsintown API.
 
