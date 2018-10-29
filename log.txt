@@ -1,0 +1,219 @@
+Invalid Instruction
+
+---------------------------------------------------
+
+Title: Pulp
+Rotten Tomatoes Rating: 75%
+Release Year: 1972
+Language: English
+Country: UK
+IMDB Rating: 6.0
+Actors: Michael Caine, Mickey Rooney, Lionel Stander, Lizabeth Scott
+
+---------------------------------------------------
+
+Plot: A seedy writer of sleazy pulp novels is recruited by a quirky, reclusive ex-actor to help him write his biography at his house in Malta.
+
+---------------------------------------------------
+
+Date: 10/26/2018
+City: Docklands
+Country: Australia
+Name: Marvel Stadium
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+City: Sydney Olympic Park
+Date: 11/02/2018
+Name: ANZ Stadium
+Country: Australia
+Date: 11/06/2018
+
+---------------------------------------------------
+
+City: Woolloongabba
+
+---------------------------------------------------
+
+Name: The Gabba
+Country: Australia
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Name: Mt Smart Stadium
+City: Auckland
+Date: 11/09/2018
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Name: Tokyo Dome
+Country: New Zealand
+Country: Tokyo
+Date: 11/20/2018
+
+---------------------------------------------------
+
+Country: Japan
+
+---------------------------------------------------
+
+Date: 11/21/2018
+City: Tokyo
+Name: Tokyo Dome
+Country: Japan
+Country: Tokyo
+
+---------------------------------------------------
+
+City: Tokyo
+Invalid Instruction
+Invalid Instruction
+
+---------------------------------------------------
+
+Artist: Backstreet Boys
+Song: I Want It That Way
+Album: The Hits--Chapter One
+Preview: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=cf0c3301d225408ca6d9af3d8468a589
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Artist: Eagles
+Album: Hotel California (Remastered)
+Song: Hotel California - Remastered
+
+---------------------------------------------------
+
+Preview: null
+
+---------------------------------------------------
+
+Artist: The Weeknd
+Song: The Hills
+Album: Beauty Behind The Madness
+Preview: null
+
+---------------------------------------------------
+
+Invalid Instruction
+
+---------------------------------------------------
+
+Title: The Shawshank Redemption
+Rotten Tomatoes Rating: 91%
+Release Year: 1994
+Language: English
+Country: USA
+IMDB Rating: 9.3
+
+---------------------------------------------------
+
+Actors: Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler
+Plot: Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.
+
+---------------------------------------------------
+
+Title: The Little Mermaid
+Rotten Tomatoes Rating: 92%
+Release Year: 1989
+Language: English, French
+Country: USA
+IMDB Rating: 7.6
+Actors: Rene Auberjonois, Christopher Daniel Barnes, Jodi Benson, Pat Carroll
+
+---------------------------------------------------
+
+Plot: A mermaid princess makes a Faustian bargain with an unscrupulous sea-witch in order to meet a human prince on land.
+
+---------------------------------------------------
+
+Title: Frozen
+Country: USA
+Language: English, Norwegian
+Release Year: 2013
+Plot: When the newly-crowned Queen Elsa accidentally uses her power to turn things into ice to curse her home in infinite winter, her sister Anna teams up with a mountain man, his playful reindeer, and a snowman to change the weather condition.
+IMDB Rating: 7.5
+Actors: Kristen Bell, Idina Menzel, Jonathan Groff, Josh Gad
+Rotten Tomatoes Rating: 90%
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Artist: Angela Lansbury
+Song: Beauty and the Beast - From "Beauty and the Beast" / Soundtrack Version
+Album: Beauty and the Beast
+Preview: null
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Error occurred: TypeError: Cannot read property 'artists' of undefined
+
+---------------------------------------------------
+
+Artist: Backstreet Boys
+Song: I Want It That Way
+Album: The Hits--Chapter One
+Preview: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=cf0c3301d225408ca6d9af3d8468a589
+
+---------------------------------------------------
+
+Invalid Instruction
+
+---------------------------------------------------
+
+Title: The Breakfast Club
+IMDB Rating: 7.9
+Release Year: 1985
+Rotten Tomatoes Rating: 88%
+Plot: Five high school students meet in Saturday detention and discover how they have a lot more in common than they thought.
+Country: USA
+Language: English
+Actors: Emilio Estevez, Paul Gleason, Anthony Michael Hall, John Kapelos
+
+---------------------------------------------------
+
+🎥
+---------------------------------------------------
+
+Title: The Breakfast Club
+Rotten Tomatoes Rating: 88%
+Release Year: 1985
+Country: USA
+Language: English
+IMDB Rating: 7.9
+Actors: Emilio Estevez, Paul Gleason, Anthony Michael Hall, John Kapelos
+Plot: Five high school students meet in Saturday detention and discover how they have a lot more in common than they thought.
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Title: The Breakfast Club
+IMDB Rating: 7.9
+Release Year: 1985
+Language: English
+Plot: Five high school students meet in Saturday detention and discover how they have a lot more in common than they thought.
+Country: USA
+
+---------------------------------------------------
+
+Actors: Emilio Estevez, Paul Gleason, Anthony Michael Hall, John Kapelos
+Rotten Tomatoes Rating: 88%
