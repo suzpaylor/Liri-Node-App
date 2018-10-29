@@ -217,3 +217,59 @@ Country: USA
 
 Actors: Emilio Estevez, Paul Gleason, Anthony Michael Hall, John Kapelos
 Rotten Tomatoes Rating: 88%
+
+---------------------------------------------------
+
+Title: The Shawshank Redemption
+Rotten Tomatoes Rating: 91%
+Release Year: 1994
+Language: English
+Country: USA
+IMDB Rating: 9.3
+Actors: Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler
+Plot: Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Release Year: 2008
+Title: The Dark Knight
+Rotten Tomatoes Rating: 94%
+IMDB Rating: 9.0
+Plot: When the menace known as the Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham. The Dark Knight must accept one of the greatest psychological and physical tests of his ability to fight injustice.
+Actors: Christian Bale, Heath Ledger, Aaron Eckhart, Michael Caine
+
+---------------------------------------------------
+
+Country: USA, UK
+Language: English, Mandarin
+
+---------------------------------------------------
+
+Title: Nacho Libre
+Rotten Tomatoes Rating: 40%
+Release Year: 2006
+Country: Germany, USA
+Language: English, Spanish
+IMDB Rating: 5.7
+
+---------------------------------------------------
+
+Actors: Jack Black, Ana de la Reguera, Héctor Jiménez, Darius Rose
+Plot: Berated all his life by those around him, a monk follows his dream and dons a mask to moonlight as a Luchador (Mexican wrestler).
+
+---------------------------------------------------
+
+Title: Elf
+Rotten Tomatoes Rating: 84%
+IMDB Rating: 6.9
+Country: USA
+Language: English
+Release Year: 2003
+Plot: After inadvertently wreaking havoc on the elf community due to his ungainly size, a man raised as an elf at the North Pole is sent to the U.S. in search of his true identity.
+Actors: Will Ferrell, James Caan, Bob Newhart, Edward Asner
+
+---------------------------------------------------
+
