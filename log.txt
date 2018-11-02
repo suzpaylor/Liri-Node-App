@@ -1,0 +1,49 @@
+Invalid Instruction
+
+---------------------------------------------------
+
+Title: The Shawshank Redemption
+Rotten Tomatoes Rating: 91%
+IMDB Rating: 9.3
+Release Year: 1994
+Plot: Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.
+Actors: Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler
+Language: English
+
+---------------------------------------------------
+
+Country: USA
+
+---------------------------------------------------
+
+Title: Enchanted
+Release Year: 2007
+Rotten Tomatoes Rating: 93%
+IMDB Rating: 7.1
+Language: English
+Plot: A young maiden in a land called Andalasia, who is prepared to be wed, is sent away to New York City by an evil queen, where she falls in love with a lawyer.
+
+---------------------------------------------------
+
+Actors: Amy Adams, Patrick Dempsey, James Marsden, Timothy Spall
+Country: USA
+
+---------------------------------------------------
+
+Artist: Drake
+Preview: https://p.scdn.co/mp3-preview/f09116ce18bd77f543e68a925e5a96509e79ac6a?cid=cf0c3301d225408ca6d9af3d8468a589
+
+---------------------------------------------------
+
+Song: Nice For What
+Album: Scorpion
+
+---------------------------------------------------
+
+Artist: Samuel E. Wright
+Song: Under the Sea - From "The Little Mermaid" / Soundtrack Version
+
+---------------------------------------------------
+
+Preview: null
+Album: The Little Mermaid
