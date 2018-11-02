@@ -47,3 +47,52 @@ Song: Under the Sea - From "The Little Mermaid" / Soundtrack Version
 
 Preview: null
 Album: The Little Mermaid
+
+---------------------------------------------------
+
+Title: The Little Mermaid
+Rotten Tomatoes Rating: 92%
+Country: USA
+IMDB Rating: 7.6
+Release Year: 1989
+Plot: A mermaid princess makes a Faustian bargain with an unscrupulous sea-witch in order to meet a human prince on land.
+Actors: Rene Auberjonois, Christopher Daniel Barnes, Jodi Benson, Pat Carroll
+
+---------------------------------------------------
+
+Language: English, French
+Invalid Instruction
+
+---------------------------------------------------
+
+Artist: The Beatles
+Preview: https://p.scdn.co/mp3-preview/3653ec8fd77f85ff282f56a3e8593e3299ba6580?cid=cf0c3301d225408ca6d9af3d8468a589
+Song: Here Comes The Sun - Remastered 2009
+
+---------------------------------------------------
+
+Album: Abbey Road (Remastered)
+
+---------------------------------------------------
+
+Artist: Rockabye Lullaby
+Album: Disney Lullabies (Deluxe Edition 2)
+Preview: null
+Song: The Rainbow Connection (The Muppets)
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Title: Napoleon Dynamite
+Rotten Tomatoes Rating: 71%
+IMDB Rating: 6.9
+Release Year: 2004
+Plot: A listless and alienated teenager decides to help his new friend win the class presidency in their small western high school, while he must deal with his bizarre family life back home.
+Country: USA
+
+---------------------------------------------------
+
+Language: English
+Actors: Jon Heder, Jon Gries, Aaron Ruell, Efren Ramirez

@@ -7,7 +7,7 @@ var spotify = new Spotify(keys.spotify);
 
 
 var action = process.argv[2];
-var parameter = process.argv[3];
+var parameter = process.argv.slice(3).join(" ");
 
 
 
